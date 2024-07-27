@@ -1,0 +1,31 @@
+{
+  "name": "shopping-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganesh-Kdt/Shopping-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganesh-Kdt/Shopping-Website/issues"
+  },
+  "homepage": "https://github.com/Ganesh-Kdt/Shopping-Website#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "concurrently": "^6.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.17",
+    "nodemon": "^2.0.12"
+  }
+}
